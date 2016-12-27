@@ -28,6 +28,7 @@ public class Demo05 {
         }
 
         System.out.println("-------");
+        System.out.println("5555");
         int index = vector.size() - 1;
         System.out.println(vector.remove(index));
     }

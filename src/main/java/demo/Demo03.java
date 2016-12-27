@@ -45,6 +45,7 @@ public class Demo03 {
         } finally {
             System.out.println("test1-finally");
             System.out.println("222");
+            System.out.println("2333");
         }
         return null;
     }

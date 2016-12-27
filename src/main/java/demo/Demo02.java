@@ -25,5 +25,6 @@ public class Demo02 {
 
 
         System.out.println("111");
+        System.out.println("222");
     }
 }

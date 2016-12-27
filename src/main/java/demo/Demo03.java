@@ -44,6 +44,7 @@ public class Demo03 {
             e.printStackTrace();
         } finally {
             System.out.println("test1-finally");
+            System.out.println("222");
         }
         return null;
     }

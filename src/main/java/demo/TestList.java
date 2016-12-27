@@ -49,6 +49,9 @@ public class TestList {
         System.out.println(time5 - time4);
 
 
+        System.out.println("dev1");
+
+
         Iterator iterator = arrayList.iterator();
         while (iterator.hasNext()){
             System.out.println(iterator.next());

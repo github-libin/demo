@@ -10,6 +10,7 @@ public class Demo04 {
         String string = "1234sfasssfre";
 //        System.out.println(string.hashCode());
 
+        System.out.println("4444");
         System.out.println(string.hashCode());
     }
 }
